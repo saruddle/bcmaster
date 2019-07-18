@@ -1,0 +1,11 @@
+﻿{
+    "branchId":  "6f4189cf-7401-46f1-b84c-2c4c156923fd",
+    "navSolution":  "W1",
+    "projectName":  "Workshop",
+    "storeAllObjects":  "true",
+    "objectProperties":  "true",
+    "datetimeCulture":  "en-US",
+    "navVersion":  "14.0.0.0",
+    "dockerImage":  "mcr.microsoft.com/businesscentral/onprem",
+    "dockerShared":  ""
+}
