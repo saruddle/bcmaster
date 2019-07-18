@@ -1,6 +1,6 @@
 {
   "id": "83e1acbc-2df6-497d-a52d-886bda27ec1e",
-  "name": "ALProject1",
+  "name": "HelloWorld",
   "publisher": "Default publisher",
   "version": "1.0.0.0",
   "brief": "",
@@ -22,5 +22,5 @@
   ],
   "contextSensitiveHelpUrl": "https://ALProject1.com/help/",
   "showMyCode": true,
-  "runtime": "3.2"
+  "runtime": "3.0"
 }
